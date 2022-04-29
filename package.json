@@ -1,5 +1,9 @@
 {
   "name": "pop-os-clone",
+  "author": {
+    "name": "Nelson Carvalho",
+    "url": "https://github.com/Nelson-DevStack"
+  },
   "version": "0.1.0",
   "private": true,
   "scripts": {

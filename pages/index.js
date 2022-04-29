@@ -1,6 +1,6 @@
-import Head from 'next/head';
 import { ThemeProvider } from 'styled-components';
 import { useEffect, useState } from 'react';
+import Head from 'next/head';
 import GlobalStyle from '../themes/GlobalStyle';
 import Hero from '../components/Hero/index';
 import Navbar from '../components/Navbar/index';
