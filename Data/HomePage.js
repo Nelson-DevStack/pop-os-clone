@@ -186,12 +186,7 @@ export const features = {
       text: 'It’s dark, like your afternoon coffee—but with high-contrast accent colors to please the eye. Flip the toggle below to see Dark Mode in action.',
       image: popDarkMode,
       themeToggler: true,
-    },
-    {
-      title: 'Dark mode',
-      text: 'It’s dark, like your afternoon coffee—but with high-contrast accent colors to please the eye. Flip the toggle below to see Dark Mode in action.',
-      image: popDarkMode,
-    },
+    }, 
   ]
 }
 
